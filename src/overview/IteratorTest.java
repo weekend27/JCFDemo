@@ -29,6 +29,7 @@ public class IteratorTest {
 		}
 	}
 
+	// test
 	public static void main(String[] args) {
 		oldIterator();
 		newIterator();
